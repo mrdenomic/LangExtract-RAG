@@ -1,0 +1,40 @@
+# Core Dependencies for LangExtract RAG System
+
+# LangExtract - Google's extraction library
+langextract
+
+# LangChain - RAG orchestration framework
+langchain
+langchain-openai
+langchain-community
+
+# Vector Database
+chromadb
+
+# LLM APIs
+openai
+google-genai
+
+# Environment and Configuration
+python-dotenv
+
+# Data Processing
+pydantic
+numpy
+textwrap3
+
+# Optional: Document Processing
+pypdf  # For PDF support
+beautifulsoup4  # For HTML processing
+
+# Optional: Local Model Support
+ollama  # For running local models
+
+# Development and Testing
+pytest
+pytest-asyncio
+
+# Utilities
+tqdm  # Progress bars
+colorama  # Colored terminal output
+tabulate  # Table formatting
