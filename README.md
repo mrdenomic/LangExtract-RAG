@@ -2,6 +2,8 @@
 
 ## 🚀 Overview
 
+Here is a [video](https://youtu.be/RPpGIxmdZYs) to get you started
+
 This project demonstrates how Google's **LangExtract** transforms traditional RAG (Retrieval-Augmented Generation) systems by adding intelligent metadata extraction.
 ### The Problem with Traditional RAG
 
